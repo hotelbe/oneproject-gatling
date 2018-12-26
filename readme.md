@@ -21,3 +21,5 @@
                         <exclude>default.*</exclude>
                         <!--<exclude>computerdatabase.*</exclude>-->
                     </excludes>
+3.报告结果
+在target目录下的gatling中
